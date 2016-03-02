@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\basket.jpg</Source>
+      <Name>Images\basket</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContest\bin\x86\Debug\Content\Images\basket.xnb</Output>
+      <Time>2016-02-21T10:40:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\arrow.png</Source>
+      <Name>Images\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContest\bin\x86\Debug\Content\Images\arrow.xnb</Output>
+      <Time>2016-02-21T10:39:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ball.png</Source>
+      <Name>Images\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContest\bin\x86\Debug\Content\Images\ball.xnb</Output>
+      <Time>2016-02-21T10:39:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\strength.png</Source>
+      <Name>Images\strength</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContest\bin\x86\Debug\Content\Images\strength.xnb</Output>
+      <Time>2016-02-21T10:39:26+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContestContent\</RootDirectory>
+      <LoggerRootDirectory>F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContest\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-24T11:48:50.6995909+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

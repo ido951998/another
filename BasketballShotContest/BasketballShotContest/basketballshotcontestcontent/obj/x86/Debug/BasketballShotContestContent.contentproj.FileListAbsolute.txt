@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2010\projects\BasketballShotContest\BasketballShotContest\BasketballShotContestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Dropbox\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContestContent\obj\x86\Debug\BasketballShotContestContent.contentprojResolveAssemblyReference.cache
+F:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContestContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\עבודת גמר גולן2\BasketballShotContest\BasketballShotContest\BasketballShotContestContent\obj\x86\Debug\BasketballShotContestContent.contentprojResolveAssemblyReference.cache
